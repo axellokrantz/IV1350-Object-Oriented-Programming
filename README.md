@@ -1,15 +1,15 @@
 # Course contents
 ## Examples of fields that are treated:
 
-* Object-oriented design and design pattern  
-* Architecture and architectural patterns  
-* Guidelines for object-oriented programming for example refactoring and unit testing 
-* UML (Unified Modeling Language)  
-* Object-oriented analysis
+* Object-oriented design and design pattern.
+* Architecture and architectural patterns.  
+* Guidelines for object-oriented programming for example refactoring and unit testing.
+* UML (Unified Modeling Language).
+* Object-oriented analysis.
 
-## Intended learning outcomes:
-After passing the course, the student shall be able to
+## Intended learning outcomes
+After passing the course, the student shall be able to:
 
-* Develop an object-oriented programme by applying established guidelines for object-oriented architecture, design and programming
-* Discuss the quality of a programme and then refer to established guidelines for object-oriented architecture, design and programming
+* Develop an object-oriented programme by applying established guidelines for object-oriented architecture, design and programming.
+* Discuss the quality of a programme and then refer to established guidelines for object-oriented architecture, design and programming.
 * Interpret and clarify a given specification by applying established guidelines for analysis. 
