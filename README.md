@@ -7,7 +7,7 @@
 * UML (Unified Modeling Language).
 * Object-oriented analysis.
 
-## Intended learning outcomes
+## Intended learning outcomes:
 
 * Develop an object-oriented programme by applying established guidelines for object-oriented architecture, design and programming.
 * Discuss the quality of a programme and then refer to established guidelines for object-oriented architecture, design and programming.
