@@ -1,4 +1,4 @@
-# Course contents
+# IV1350 Course contents
 ## Examples of fields that are treated:
 
 * Object-oriented design and design pattern.
